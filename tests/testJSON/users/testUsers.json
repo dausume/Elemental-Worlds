@@ -1,0 +1,17 @@
+[
+    {
+    "id": 1,
+    "name": "Sean Grey",
+    "age": 24
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "age": 23
+  },
+  {
+    "id": 3,
+    "name": "Peter Parker",
+    "age": 16
+  }
+]

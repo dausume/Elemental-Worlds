@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "planeId": 1234,
+        "x": 0,
+        "y": 0,
+        "x_size": 1,
+        "y_size": 1,
+        "unit": "unit"
+    },
+    {
+        "id": 2,
+        "planeId": 1234,
+        "x": 1,
+        "y": 0,
+        "x_size": 1,
+        "y_size": 1,
+        "unit": "unit"
+    },
+    {
+        "id": 3,
+        "planeId": 1234,
+        "x": 0,
+        "y": 1,
+        "x_size": 1,
+        "y_size": 1,
+        "unit": "unit"
+    },
+    {
+        "id": 4,
+        "planeId": 1234,
+        "x": 1,
+        "y": 1,
+        "x_size": 1,
+        "y_size": 1,
+        "unit": "unit"
+    }
+
+]

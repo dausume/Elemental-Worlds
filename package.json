@@ -1,0 +1,17 @@
+{
+  "name": "elemental-worlds",
+  "version": "1.0.0",
+  "description": "A game project for a 2d open environment game.",
+  "main": "src/main.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.12"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
